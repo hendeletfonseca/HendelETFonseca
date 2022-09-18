@@ -18,7 +18,7 @@
   </td>
   <td width="50%">
 
-<br><p align="center">My studies!<br><br>
+<br><p align="center">you can find me here!<br><br>
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/hendel-fonseca/)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/1vWSo9lO)
 
