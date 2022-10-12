@@ -1,4 +1,4 @@
-### Hendel-Fonseca Brazilian Computer Science student
+### Hendel-Fonseca Brazilian Computer Science student 
 
 <table width="100%">
   <tr>
