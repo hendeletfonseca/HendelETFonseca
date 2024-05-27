@@ -11,9 +11,9 @@
   <td width="50%">
 
  <p align = "center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img<                                                                                                         
  </p>
 
@@ -36,16 +36,20 @@
   <p align = "center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hendeletfonseca&show_icons=true&theme=onedark&locale=en" alt="hendeletfonseca" /></p>
   </td>
   <tr>
-  <td colspan = 2><br><p align = "center"> I’m currently learning </p></td>
+  <td colspan = 2><br><p align = "center"> I’m interested in </p></td>
   <tr>
   <td colspan=2 width ="50%">
   <br>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="c" width="40" height="40"/><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="linux" width="40" height="40"/><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img<              
-                                                                                                                                     </p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" width="40" height="40"/><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" width="40" height="40"/><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="40" height="40"/><img<              
+  </p>
   </table>
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
