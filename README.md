@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Hendel+Fonseca;Computer+Science+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
   <th>Tech stack currently using</th>
   <th>Find me at</th>
@@ -27,16 +27,7 @@
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/1vWSo9lO)
 
 </p>
-  </td>
-  <tr>
-  <td width = "50%">
-  <br>
-  <p align = "center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=hendeletfonseca&show_icons=true&theme=onedark&locale=en&layout=compact" alt="hendeletfonseca" /></p>
-  </td>
-  <td width = "50%">
-  <br>
-  <p align = "center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hendeletfonseca&show_icons=true&theme=onedark&locale=en" alt="hendeletfonseca" /></p>
-  </td>
+  
   <tr>
   <td colspan = 2><br><p align = "center"> I’m interested in </p></td>
   <tr>
